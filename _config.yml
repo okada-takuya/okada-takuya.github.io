@@ -1,0 +1,2 @@
+# Jekyll向けnip-05読み込み無視回避設定
+include: [".well-known"]
